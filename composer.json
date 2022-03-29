@@ -1,0 +1,12 @@
+{
+    "require": {
+        "monolog/monolog": "^2.4",
+        "noahbuscher/macaw": "dev-master"
+    },
+    
+    "autoload":{
+        "psr-4":{
+            "controllers\\":"app/controllers"
+        }
+    }
+}
