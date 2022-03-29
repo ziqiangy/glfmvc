@@ -1,0 +1,1 @@
+This project follows the Gao Luo Feng's creating php mvc framework project on php.cn
