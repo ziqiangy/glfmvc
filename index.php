@@ -1,6 +1,7 @@
 <?php
 require "vendor/autoload.php";
-use \NoahBuscher\Macaw\Macaw;
+use \NoahBuscher\    Macaw\Macaw;
+
 Macaw::get('/', function() {
   echo 'Hello world!';
 });
